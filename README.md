@@ -1,11 +1,7 @@
 # 🚀 pi-tenzir
 
-[Pi](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) coding
-agent package for Tenzir users.
-
-## ✨ What's included
-
-This package is the user-facing counterpart to `pi-tenzir-dev`.
+[Pi](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)
+package for Tenzir users.
 
 ## 📦 Install
 
@@ -17,15 +13,14 @@ pi install npm:pi-tenzir
 
 ## 🚀 Quick start
 
-Use the Tenzir Skill directly:
+Use the Tenzir Skill:
 
 ```text
 /skill:tenzir
 ```
 
-If this is the first run, pi downloads the latest skill version from the
-[official documentation](https://github.com/tenzir/docs/releases) before
-registering it.
+Pi periodically syncs the skill with the latest version from the [official
+documentation](https://github.com/tenzir/docs/releases).
 
 ## 📄 License
 
