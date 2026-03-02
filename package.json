@@ -4,6 +4,7 @@
 	"description": "Pi coding agent package for Tenzir users.",
 	"type": "module",
 	"files": [
+		"extensions",
 		"skills",
 		"README.md",
 		"LICENSE"
@@ -32,6 +33,9 @@
 		"access": "public"
 	},
 	"pi": {
+		"extensions": [
+			"./extensions/index.ts"
+		],
 		"skills": [
 			"./skills"
 		]
