@@ -1,6 +1,0 @@
-created: 2026-03-02
-title: OCSF skill for schema lookups
-intro: >-
-  This release adds a new OCSF skill for schema lookups, enabling questions about
-  OCSF classes, objects, attributes, profiles, extensions, and event normalization
-  without web fetching.
