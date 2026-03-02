@@ -1,0 +1,39 @@
+{
+	"name": "pi-tenzir",
+	"version": "0.1.0",
+	"description": "Pi coding agent package for Tenzir users.",
+	"type": "module",
+	"files": [
+		"skills",
+		"README.md",
+		"LICENSE"
+	],
+	"keywords": [
+		"pi-package",
+		"pi-skill",
+		"coding-agent",
+		"tenzir",
+		"user"
+	],
+	"author": "Tenzir",
+	"license": "Apache-2.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tenzir/pi-tenzir.git"
+	},
+	"homepage": "https://github.com/tenzir/pi-tenzir#readme",
+	"bugs": {
+		"url": "https://github.com/tenzir/pi-tenzir/issues"
+	},
+	"engines": {
+		"node": ">=20.0.0"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"pi": {
+		"skills": [
+			"./skills"
+		]
+	}
+}
