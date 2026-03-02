@@ -1,7 +1,7 @@
 {
 	"name": "pi-tenzir",
 	"version": "0.1.0",
-	"description": "Pi coding agent package for Tenzir users.",
+	"description": "Pi package for Tenzir users.",
 	"type": "module",
 	"files": [
 		"extensions",
